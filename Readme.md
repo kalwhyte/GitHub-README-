@@ -1,40 +1,77 @@
 <!-- markdownlint-disable MD033 MD041 -->
+
 <p align="center">
-  <h1 align="center">⌨️ EJIOFOR EMMANUEL ARINZE⌨️ </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+Emmanuel+Arinze,+an+IT+Support+Technician+and+upcoming+Software+Engineer.;I'm+interested+in+solving+problems+and+changing+the+world+through+software+engineering.;I'm+currently+being+trained+to+become+a+full+stack+software+engineer+in+the+renowned+ALX+SE+program.&center=true&width=380&height=50&color=546e7a&vCenter=true&font=Fira%20Code&fontSize=30"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile!;A+student+of+alxSE!;IT-Support+@+HEMSL!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+
+    <img src="https://img.shields.io/discord/819650821314052106?color=546e7a&logo=discord&logoColor=white&style=for-the-badge"/></a>
+
 </p>
+
 <!-- markdownlint-enable MD033 -->
 
-My name is **Emmanuel Arinze (Whyte)** [@kalwhyte](https://github.com/kalwhyte). I live in the tech world and i'm building myself rapidly to meet up with the speed of innovations. I am an **IT Support Technician**, upcoming **Software Engineer** with a special interest in <u>DevOps, front-end and back-end development</u>. I’m interested in solving problems and changing the world by the instrumentality of Software Engineering and other unique skills that I've got. I’m currently being trained to become a full stack software engineer in the renowned **ALX SE program** and I’m willing and ready to work with any serious team of software engineers, who consider me skillful enough at any point in time, especially for internship.
+My name is Emmanuel Arinze (Whyte) @kalwhyte. I'm passionate about technology and I'm constantly building my skills to keep up with the latest innovations. I am an IT Support Technician and an upcoming Software Engineer with a special interest in DevOps, front-end and back-end development.
 
-My skills in the tech world include:
-- [HTML](www.html.com)
-- [CSS]
-- JavaScript
-- C programming
-- Python ***and more***
+Skills
 
-### Contact or Connect with Me via:
+Here are some of the skills I've acquired:
+
+HTML
+
+CSS
+
+JavaScript
+
+C programming
+
+Python
+
+and more
+
+Connect with Me
+
+I'd love to connect with you on other platforms. Here are some of my social media profiles:
+
+## Twitter:
+
+- [Twitter](https://twitter.com/kalwhyte)
+
+LinkedIn
+
+Instagram
+
+You can also reach me via email at:
+
+Gmail
+
+YahooMail
+
+ALX SE Program
+
+I'm currently enrolled in the renowned ALX SE program where I'm being trained to become a full stack software engineer. I'm available on Slack as (Emmanuel Arize) if you're also running the program.
+
+Collaboration
+
+I'm always willing to collaborate with serious teams of software engineers. Feel free to check out my GitHub profile to see my projects and get in touch.
+
+Thank you for taking the time to visit my profile.
+
+
+
+
 ## Email:
 - [Gmail](mailto:superkalel55@gmail.com)
 - [YahooMail](mailto:superkalel55@yahoo.com)
 
-## Twitter:
-- [Twitter](https://twitter.com/kalwhyte)
 
-## LinkedIn:
-- [LinkedIn](https://www.linkedin.com/in/ejiofor-emmanuel-15542417b)
 
+## 
 ## Instagram:
 - [Instagram](https://instagram.com/kal_whyte)
 
