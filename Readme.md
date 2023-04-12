@@ -6,14 +6,6 @@
 
 </p>
 
-<p align="center">
-
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-
-    <img src="https://img.shields.io/discord/819650821314052106?color=546e7a&logo=discord&logoColor=white&style=for-the-badge"/></a>
-
-</p>
-
 <!-- markdownlint-enable MD033 -->
 
 My name is Emmanuel Arinze (Whyte) @kalwhyte. I'm passionate about technology and I'm constantly building my skills to keep up with the latest innovations. I am an IT Support Technician and an upcoming Software Engineer with a special interest in DevOps, front-end and back-end development.
