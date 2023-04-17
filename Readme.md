@@ -14,19 +14,9 @@ Skills
 
 Here are some of the skills I've acquired:
 
-`HTML`
+`HTML` - `CSS` - `JavaScript` - `C programming` - `Python`
 
-CSS
-
-JavaScript
-
-C programming
-
-Python
-
-and more
-
-Connect with Me
+### *Connect with Me*
 
 I'd love to connect with you on other platforms. Here are some of my social media profiles:
 
