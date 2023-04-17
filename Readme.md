@@ -1,8 +1,14 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;+I'm+Emmanuel+Arinze,;An+IT+Support+Technician,;Upcoming+Software+Engineer; I'm+interested+in+solving+problems+and+changing+the+world+through+software+engineering.; I'm+currently+being+trained+to+become+a+full+stack+software+engineer+in+the+renowned+ALX+SE+program.&center=true&width=750&height=100&color=546e7a&vCenter=true&font=Fira%20Code&fontSize=60">
+  <img src="https://readme-typing-svg.herokuapp.com/?
+            lines=Welcome+to+my+GitHub+profile!;
+            I'm+Emmanuel+Arinze;
+            An+IT+Support+Technician;
+            Upcoming+Software+Engineer;
+            I'm+interested+in+solving+problems;
+            changing+the+world+through+software+engineering.;
+            I'm+currently+being+training+to+become+a+full+stack+software+engineer+in+the+renowned+ALX+SE+program.&center=true&width=750&height=100&color=546e7a&vCenter=true&font=Fira%20Code&fontSize=60">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
