@@ -14,7 +14,7 @@ Skills
 
 Here are some of the skills I've acquired:
 
-HTML
+`HTML`
 
 CSS
 
