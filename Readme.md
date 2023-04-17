@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
+  <img src="https://readme-typing-svg.demolab.com/?
             lines=Welcome+to+my+GitHub+profile!;
             I'm+Emmanuel+Arinze;
             An+IT+Support+Technician;
