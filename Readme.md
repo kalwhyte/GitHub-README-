@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+Emmanuel+Arinze,+an+IT+Support+Technician+and+upcoming+Software+Engineer.;I'm+interested+in+solving+problems+and+changing+the+world+through+software+engineering.;I'm+currently+being+trained+to+become+a+full+stack+software+engineer+in+the+renowned+ALX+SE+program.&center=true&width=750&height=100&color=546e7a&vCenter=true&font=Fira%20Code&fontSize=60"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I'm+Emmanuel+Arinze;An+IT+Support+Technician; Upcoming+Software+Engineer; I'm+interested+in+solving+problems+and+changing+the+world+through+software+engineering.; I'm+currently+being+trained+to+become+a+full+stack+software+engineer+in+the+renowned+ALX+SE+program.&center=true&width=750&height=100&color=546e7a&vCenter=true&font=Fira%20Code&fontSize=60"/>
 
 </p>
 
