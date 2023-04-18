@@ -20,7 +20,7 @@ I'd love to connect with you on other platforms. Here are some of my social medi
 
 ## Twitter:
 
-- [Twitter](https://twitter.com/kalwhyte)
+- `[Twitter](https://twitter.com/kalwhyte)`
 
 LinkedIn
 
