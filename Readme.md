@@ -18,16 +18,16 @@ My name is Emmanuel Arinze (Whyte) [kalwhyte](https://github.com/kalwhyte). I'm 
 
 I'd love to connect with you on other platforms. Here are some of my social media profiles:
 
-## Twitter:
+Twitter:
 - [Twitter](https://twitter.com/kalwhyte)
-## LinkedIn:
+LinkedIn:
 - [LinkedIn](https://linkedIn.com/in/ejiofor-emmanuel-15542417b/)
-## Email:
+Email:
 - [Gmail](mailto:superkalel55@gmail.com)
 - [YahooMail](mailto:superkalel55@yahoo.com)
-## Instagram:
+Instagram:
 - [Instagram](https://instagram.com/kal_whyte)
-## GitHub:
+GitHub:
 - [Github](https://github.com/kalwhyte)
 
 ### Collaboration
